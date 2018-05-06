@@ -5,7 +5,7 @@
 
 </h1>
 
-<?php echo "version 1";
+<?php echo "version #2";
 ?>
 
 </body>
